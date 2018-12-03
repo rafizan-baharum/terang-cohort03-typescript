@@ -7,7 +7,7 @@ let myVariable:string;
 myVariable = 'Mary';
 
 // variable re-assignment
-myVariable = 'Michael'
+myVariable = 'Michael';
 
 // printing out variable
 console.log('variable: ' + myVariable);	
